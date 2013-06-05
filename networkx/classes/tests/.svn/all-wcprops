@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/rvsr/!svn/ver/1/networkx/classes/tests
+END
+test_multidigraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/classes/tests/test_multidigraph.py
+END
+test_multigraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rvsr/!svn/ver/1/networkx/classes/tests/test_multigraph.py
+END
+test_digraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rvsr/!svn/ver/1/networkx/classes/tests/test_digraph.py
+END
+test_digraph_historical.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rvsr/!svn/ver/1/networkx/classes/tests/test_digraph_historical.py
+END
+test_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/classes/tests/test_graph.py
+END
+test_graph_historical.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rvsr/!svn/ver/1/networkx/classes/tests/test_graph_historical.py
+END
+historical_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rvsr/!svn/ver/1/networkx/classes/tests/historical_tests.py
+END
+test_function.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rvsr/!svn/ver/1/networkx/classes/tests/test_function.py
+END

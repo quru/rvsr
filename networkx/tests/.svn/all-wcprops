@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/rvsr/!svn/ver/1/networkx/tests
+END
+benchmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rvsr/!svn/ver/1/networkx/tests/benchmark.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/rvsr/!svn/ver/1/networkx/tests/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/rvsr/!svn/ver/1/networkx/tests/test.py
+END
+test_convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rvsr/!svn/ver/1/networkx/tests/test_convert.py
+END
+test_exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rvsr/!svn/ver/1/networkx/tests/test_exceptions.py
+END
+test_relabel.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rvsr/!svn/ver/1/networkx/tests/test_relabel.py
+END
+test_convert_scipy.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/tests/test_convert_scipy.py
+END
+test_convert_numpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/tests/test_convert_numpy.py
+END

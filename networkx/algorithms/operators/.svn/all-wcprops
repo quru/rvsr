@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rvsr/!svn/ver/1/networkx/algorithms/operators
+END
+all.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/algorithms/operators/all.py
+END
+unary.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rvsr/!svn/ver/1/networkx/algorithms/operators/unary.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rvsr/!svn/ver/1/networkx/algorithms/operators/__init__.py
+END
+product.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rvsr/!svn/ver/1/networkx/algorithms/operators/product.py
+END
+binary.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rvsr/!svn/ver/1/networkx/algorithms/operators/binary.py
+END

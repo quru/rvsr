@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/rvsr/!svn/ver/1/networkx/drawing/tests
+END
+test_layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rvsr/!svn/ver/1/networkx/drawing/tests/test_layout.py
+END
+test_pydot.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/drawing/tests/test_pydot.py
+END
+test_agraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rvsr/!svn/ver/1/networkx/drawing/tests/test_agraph.py
+END
+test_pylab.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rvsr/!svn/ver/1/networkx/drawing/tests/test_pylab.py
+END

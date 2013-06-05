@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rvsr/!svn/ver/1/networkx/algorithms/traversal
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rvsr/!svn/ver/1/networkx/algorithms/traversal/__init__.py
+END
+depth_first_search.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rvsr/!svn/ver/1/networkx/algorithms/traversal/depth_first_search.py
+END
+breadth_first_search.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rvsr/!svn/ver/1/networkx/algorithms/traversal/breadth_first_search.py
+END

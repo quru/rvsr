@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rvsr/!svn/ver/1/networkx/algorithms/link_analysis
+END
+hits_alg.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/link_analysis/hits_alg.py
+END
+pagerank_alg.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rvsr/!svn/ver/1/networkx/algorithms/link_analysis/pagerank_alg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/link_analysis/__init__.py
+END

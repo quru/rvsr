@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rvsr/!svn/ver/4/requests/packages/urllib3/contrib
+END
+pyopenssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rvsr/!svn/ver/4/requests/packages/urllib3/contrib/pyopenssl.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/4/requests/packages/urllib3/contrib/__init__.py
+END
+ntlmpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/4/requests/packages/urllib3/contrib/ntlmpool.py
+END

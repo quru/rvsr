@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rvsr/!svn/ver/1/networkx/algorithms/approximation
+END
+independent_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/independent_set.py
+END
+matching.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/matching.py
+END
+vertex_cover.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/vertex_cover.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/__init__.py
+END
+ramsey.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/ramsey.py
+END
+clique.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/clique.py
+END
+dominating_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rvsr/!svn/ver/1/networkx/algorithms/approximation/dominating_set.py
+END

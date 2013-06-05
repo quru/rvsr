@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths
+END
+astar.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/astar.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/generic.py
+END
+dense.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/dense.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/__init__.py
+END
+weighted.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/weighted.py
+END
+unweighted.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rvsr/!svn/ver/1/networkx/algorithms/shortest_paths/unweighted.py
+END

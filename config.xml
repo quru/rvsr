@@ -1,0 +1,41 @@
+
+<rvmsr>
+
+	<general>
+		<refresh>true</refresh>
+		<replicate>false</replicate>
+		<verify_ssl>false</verify_ssl>
+	</general>
+
+	<replication>
+
+		<plan>
+			<primary>
+				<api_url>https://172.16.10.1:8443/api</api_url>
+				<api_username>admin</api_username>
+				<api_domain>internal</api_domain>
+				<api_password>quru1LA</api_password>
+				<datacentre_name>general</datacentre_name>
+				<cluster_name>m4</cluster_name>
+			</primary>
+			<!-- the Tag defines how the machines will be tagged on the other end,
+			     and also becomes an underscored prefix to the names of the machines  -->
+			<tag>dr</tag>
+			<secondary>
+				<api_url>https://your-machine.yourdomain/api</api_url>
+				<api_username>your-username</api_username>
+				<api_domain>internal</api_domain>
+				<api_password>your-password</api_password>
+				<datacentre_name>local_datacenter</datacentre_name>
+				<cluster_name>local_cluster</cluster_name>
+			</secondary>
+		</plan>
+
+		
+	</replication>
+
+	<advanced>
+		<var>/var/opt/rvmsr</var>
+	</advanced>
+
+</rvmsr>

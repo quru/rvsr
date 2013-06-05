@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rvsr/!svn/ver/1/networkx/algorithms/centrality
+END
+eigenvector.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/eigenvector.py
+END
+communicability_alg.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/communicability_alg.py
+END
+current_flow_betweenness.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/current_flow_betweenness.py
+END
+flow_matrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/flow_matrix.py
+END
+closeness.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/closeness.py
+END
+degree_alg.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/degree_alg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/__init__.py
+END
+load.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/load.py
+END
+current_flow_betweenness_subset.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/current_flow_betweenness_subset.py
+END
+betweenness.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/betweenness.py
+END
+betweenness_subset.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/betweenness_subset.py
+END
+current_flow_closeness.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/rvsr/!svn/ver/1/networkx/algorithms/centrality/current_flow_closeness.py
+END

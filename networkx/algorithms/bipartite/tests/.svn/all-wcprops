@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests
+END
+test_centrality.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests/test_centrality.py
+END
+test_basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests/test_basic.py
+END
+test_cluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests/test_cluster.py
+END
+test_spectral_bipartivity.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests/test_spectral_bipartivity.py
+END
+test_project.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rvsr/!svn/ver/1/networkx/algorithms/bipartite/tests/test_project.py
+END

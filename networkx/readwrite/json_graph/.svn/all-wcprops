@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph/__init__.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph/tree.py
+END
+adjacency.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph/adjacency.py
+END
+node_link.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph/node_link.py
+END
+serialize.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rvsr/!svn/ver/1/networkx/readwrite/json_graph/serialize.py
+END

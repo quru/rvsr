@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/rvsr/!svn/ver/1/networkx
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/rvsr/!svn/ver/1/networkx/exception.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/rvsr/!svn/ver/1/networkx/__init__.py
+END
+convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/1/networkx/convert.py
+END
+release.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/1/networkx/release.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/1/networkx/version.py
+END
+relabel.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/1/networkx/relabel.py
+END

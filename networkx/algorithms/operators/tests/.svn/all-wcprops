@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rvsr/!svn/ver/1/networkx/algorithms/operators/tests
+END
+test_unary.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rvsr/!svn/ver/1/networkx/algorithms/operators/tests/test_unary.py
+END
+test_product.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rvsr/!svn/ver/1/networkx/algorithms/operators/tests/test_product.py
+END
+test_binary.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rvsr/!svn/ver/1/networkx/algorithms/operators/tests/test_binary.py
+END
+test_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rvsr/!svn/ver/1/networkx/algorithms/operators/tests/test_all.py
+END

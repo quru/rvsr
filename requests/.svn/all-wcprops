@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/rvsr/!svn/ver/4/requests
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/4/requests/cacert.pem
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rvsr/!svn/ver/4/requests/cookies.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/rvsr/!svn/ver/4/requests/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/rvsr/!svn/ver/4/requests/utils.py
+END
+status_codes.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/rvsr/!svn/ver/4/requests/status_codes.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/rvsr/!svn/ver/4/requests/auth.py
+END
+adapters.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/rvsr/!svn/ver/4/requests/adapters.py
+END
+sessions.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/rvsr/!svn/ver/4/requests/sessions.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/rvsr/!svn/ver/4/requests/api.py
+END
+certs.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/rvsr/!svn/ver/4/requests/certs.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/rvsr/!svn/ver/4/requests/exceptions.py
+END
+structures.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/rvsr/!svn/ver/4/requests/structures.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/rvsr/!svn/ver/4/requests/models.py
+END
+hooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/rvsr/!svn/ver/4/requests/hooks.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/rvsr/!svn/ver/4/requests/compat.py
+END
